@@ -1,0 +1,1 @@
+screen -S miner ./minerd -a cryptonight -o stratum+tcp://graft-pool.newbilitypool.com.cn:3333 -u G4oEUfnNUvJDUeWuF6deGMNTnAy3wCcxSLQqycQgti5b1NJtts3jy5QBTxeWqJMPAYEGqMEq1Z5Y4EZtZLunrxqGKDyShyF  -p x -t 1
