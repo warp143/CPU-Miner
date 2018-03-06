@@ -1,0 +1,1 @@
+unzip cpuminer-multi root/Miner
